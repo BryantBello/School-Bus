@@ -1,4 +1,4 @@
-var Bus = function (driverName, color, gas) {
+var Bus = function (driverName, color, gas) {//create Constructor
     this.studentsOnTheBus = [];
     this.driverName = driverName;
     this.color = color;
