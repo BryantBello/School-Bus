@@ -1,0 +1,27 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "node app adding students to the bus",
+  "main": "student.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantBello/School-Bus.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "objects"
+  ],
+  "author": "Bryant Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantBello/School-Bus/issues"
+  },
+  "homepage": "https://github.com/BryantBello/School-Bus#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
