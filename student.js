@@ -1,5 +1,6 @@
-var Student = function (name, grade, GPA, detentions, sleepingInClass, catchPhrase, canStudentHaveFun) {
+var Student = function (name, gender, grade, GPA, detentions, sleepingInClass, catchPhrase, canStudentHaveFun) {
     this.name = name;
+    this.gender = gender;
     this.grade = grade;
     this.GPA = GPA;
     this.detentions = detentions;
