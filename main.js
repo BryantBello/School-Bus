@@ -33,7 +33,7 @@ function getStudentInfo() { //function to gather the students info
             if (err) {
                 throw err;
             } else {
-                console.log("Students have been added to the list");
+                console.log("Students have been added to the list!!");
             }
         });
     });
