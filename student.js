@@ -11,7 +11,7 @@ var Student = function(name, gender, grade, GPA, detentions, sleepingInClass, ca
             console.log("Congratulations, you can have fun!");
             return true;
         } else {
-            console.log('You are in danger of failing. Please try harder!');
+            console.log('You are in danger of failing. Please try harder!!!!');
             return false;
         }
     };
