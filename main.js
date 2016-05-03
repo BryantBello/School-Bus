@@ -10,7 +10,7 @@ var students = 1;
 //Start Prompt
 prompt.start();
 //prompt to get the bus drive info from Bus
-console.log('Enter bus driver and bus info: ');
+console.log('Enter bus driver and bus info here: ');
 prompt.get(['driver', 'color', 'gas'], function(err, result) { //Creating new bus using info from prompt
     bus = new Bus(result.driver, result.color, result.gas);
     console.log('Enter 20 students: ');
